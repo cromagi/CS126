@@ -1,4 +1,5 @@
-Webserver-package:                #comment
+Webserver-package:
     pkg:
         - name: httpd
         - installed
+
